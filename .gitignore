@@ -1,0 +1,7 @@
+# folders
+build/
+depot_tools/
+webrtc_checkout/
+
+# clion
+.idea
